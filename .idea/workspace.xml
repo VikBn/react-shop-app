@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52331a57-189d-45be-8f14-c6f7eeb9ca59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/public/img/product-8.png" afterPath="$PROJECT_DIR$/public/img/product-8.png" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
-    </list>
+    <list default="true" id="52331a57-189d-45be-8f14-c6f7eeb9ca59" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +153,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="54" />
     <option name="y" value="59" />
     <option name="width" value="954" />
@@ -258,7 +254,7 @@
     <option name="totallyTimeSpent" value="1912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="59" width="954" height="571" extended-state="0" />
+    <frame x="54" y="59" width="954" height="571" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20581655" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
