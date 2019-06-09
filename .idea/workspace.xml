@@ -164,7 +164,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="54" />
     <option name="y" value="59" />
     <option name="width" value="954" />
@@ -257,15 +257,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560093399482</updated>
-      <workItem from="1560093401777" duration="1314000" />
+      <workItem from="1560093401777" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1314000" />
+    <option name="totallyTimeSpent" value="1912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="59" width="954" height="571" extended-state="0" />
+    <frame x="54" y="59" width="954" height="571" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20581655" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
